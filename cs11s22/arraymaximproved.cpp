@@ -13,7 +13,7 @@
 using namespace std;
 
 //return the index of the maximum value in the array
-int maxArrayIndex(int values[], const int SIZE){
+int maxArrayIndex(int values[], const int SIZE){  // hello
 	int max = values[0];
 	int index = 0;
 	
