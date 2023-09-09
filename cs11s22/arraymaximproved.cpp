@@ -28,7 +28,7 @@ int maxArrayIndex(int values[], const int SIZE){  // hello
 
 int main(){
 
-	const int CAPACITY  10; //max capacity
+	const int CAPACITY = 10; //max capacity
 	int values[CAPACITY];
 	
 	
